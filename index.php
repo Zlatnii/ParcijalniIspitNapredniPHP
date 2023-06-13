@@ -13,7 +13,6 @@ $db = Singletone::getInstance($config);
 $dbConnection = $db->getConnection();
 
 
-
 var_dump($dbConnection);
 
 ?>

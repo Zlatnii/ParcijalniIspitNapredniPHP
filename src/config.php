@@ -2,7 +2,6 @@
 
 namespace App;
 
-
 return [
     
     'dbname' => 'dbCMS',
